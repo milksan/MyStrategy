@@ -12,16 +12,16 @@
 | [エディ](eddy.md)              | 左   |     |     |     | 0   |                  |     |
 | [一八](kazuya.md)             | 左   |     |     |     | 10  |                  |     |
 | [キング](king.md)              | 右   |     |     |     | 10  |                  |     |
-| [kuma](kuma.md)(パンダ)        | 右   |     |     |     | 0   |                  |     |
+| [クマ](kuma.md)(パンダ)          | 右   |     |     |     | 0   |                  |     |
 | [クライヴ](クライヴ)                | 左   |     |     |     | 20  |                  |     |
-| [claudio](claudio.md)       | 左   |     |     |     | 20  |                  |     |
-| [zafina](zafina.md)         | 左   |     |     |     | 10  |                  |     |
-| [jack-8](jack-8.md)         | 左   |     |     |     | 0   |                  |     |
-| [xiaoyu](xiaoyu.md)         | 左   |     |     |     | 0   |                  |     |
-| [shaheen](shaheen.md)       | 左   |     |     |     | 10  |                  |     |
-| [jun](jun.md)               | 右   |     |     |     | 10  |                  |     |
-| [jin](jin.md)               | 右   |     |     |     | 10  |                  |     |
-| [steve](steve.md)           | 左   |     |     |     | 0   |                  |     |
+| [クラウディオ](claudio.md)        | 左   |     |     |     | 20  |                  |     |
+| [ザフィーナ](zafina.md)          | 左   |     |     |     | 10  |                  |     |
+| [ジャック8](jack-8.md)          | 左   |     |     |     | 0   |                  |     |
+| [シャオユウ](xiaoyu.md)          | 左   |     |     |     | 0   |                  |     |
+| [シャヒーン](shaheen.md)         | 左   |     |     |     | 10  |                  |     |
+| [準](jun.md)                 | 右   |     |     |     | 10  |                  |     |
+| [仁](jin.md)                 | 右   |     |     |     | 10  |                  |     |
+| [スティーブ](steve.md)           | 左   |     |     |     | 0   |                  |     |
 | [devil--jin](devil--jin.md) | 右   |     |     |     | 20  |                  |     |
 | [dragunov](dragunov.md)     | 右   |     |     |     | 10  | アサルトは左           |     |
 | [nina](nina.md)             | 右   |     |     |     | 10  |                  |     |
